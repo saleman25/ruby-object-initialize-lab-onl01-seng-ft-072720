@@ -5,6 +5,7 @@ def initialize(name)
 end 
 
 def name=(name)
+  
 
 def name 
   @name 
